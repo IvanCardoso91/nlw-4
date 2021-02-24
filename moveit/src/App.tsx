@@ -5,7 +5,7 @@ import './styles/global.css'
 function App() {
   return (
     <div className="container">
-    <ExperienceBar/>
+        <ExperienceBar/>
     </div>
   );
 }
